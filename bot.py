@@ -8,9 +8,9 @@ from db import BotDB
 import random
 
 # anketa its a form which presents a person 
-# i didn't use a lot of my mind naming variables, you see
+# i didn't use a lot of my mind naming variablses, you see
 
-bot = Bot(token="")
+bot = Bot(token="7901276859:AAHqwm7Ne53c-EL2tRqjLfdzOJ4LHgb1wq4")
 dp = Dispatcher(bot, storage=MemoryStorage())
 logging.basicConfig(level=logging.INFO)
 
